@@ -39,4 +39,4 @@ The goal is to provide insights into:
 ## Author
 **Anuj Sharma**  
 Data Analyst | Excel | Power Query | Power Pivot  
-[LinkedIn Profile](linkedin.com/in/anuj-sharma-40215bb6)
+[LinkedIn Profile](https://linkedin.com/in/anuj-sharma-40215bb6)
