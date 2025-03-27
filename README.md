@@ -39,4 +39,4 @@ The goal is to provide insights into:
 ## Author
 **Anuj Sharma**  
 Data Analyst | Excel | Power Query | Power Pivot  
-[LinkedIn Profile]([your-linkedin-url](https://github.com/Anujsh4rm4/Sales-Analysis-Dashboard_FnP))
+[LinkedIn Profile](linkedin.com/in/anuj-sharma-40215bb6)
